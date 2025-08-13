@@ -1,0 +1,12 @@
+Caixa branca: Acesso total ao código fonte.
+Caixa cinza: Acesso parcial (alguma coisa fica escondida).
+Caixa preta: Me sinto o usuário e não vejo código, somente aplicação no geral.
+
+Teste unitário: Testo cada parte do código fonte e a escrita dele.
+
+"Pirâmide" de testes:
+
+			Aceite
+		Sistema	          
+	Integração
+Teste unitário
