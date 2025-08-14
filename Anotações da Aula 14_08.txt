@@ -1,0 +1,32 @@
+Teste unitário: 
+
+É efetuar os testes de forma individual. [Testar cada uma das funções/classes/objetos/eventos/código/forma de codar].
+Feito pelos Devs.
+
+{
+    CleanCode
+    Documentação
+    Comentários
+} -> Avaliados em TODOS os testes.
+
+Teste de integração: 
+
+Back {			Front {
+    Chamada de API         ->   	    Visualizar dados
+}			}
+
+São os testes de comunicação de 2 itens ou mais que programei 
+Carrinho + checkout
+Back + Front / Banco + Front
+
+Teste de sistema:
+
+Colocar seu aplicativo em um ambiente igualzinho ao ambiente produtivo! Os dados armazenados e usados devem ser reais.
+
+Teste de aceite:
+
+São testes de qual o sentimento provocado no cliente final sobre a aplicação.
+
+Teste do usuário: * Cliente final + apresentação do QA *
+Contrato = fornecedores
+Operacional = Ver como é na realidade
