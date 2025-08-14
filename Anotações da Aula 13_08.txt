@@ -10,3 +10,55 @@ Teste unitário: Testo cada parte do código fonte e a escrita dele.
 		Sistema	          
 	Integração
 Teste unitário
+
+Testes de integração:
+
+Os testes de integração são uma etapa essencial do ciclo de desenvolvimento de software, focando na verificação da comunicação entre diferentes módulos ou sistemas.
+
+DOD:
+
+Definição de pronto.
+Todas as regras básicas
+{
+    Valores literais;
+    Valores numéricos;
+    Comportamento de componentes;
+    Boas práticas de mercado;
+    Funcionalidades/Integridade/Atomicidade -> Ou faz tudo ou não faz nada.
+}
+
+Big Bang:
+
+Todos os módulos são testados simultaneamente. Rápido, mas pode ser difícil identificar falhas individuais.
+
+Top-Down: 
+
+Testa primeiro os módulos de mais alto nível. Usa "stubs" para substituir componentes ainda não desenvolvidos.
+
+Bottom-Up: 
+
+Testa primeiro os módulos de baixo nível. Usa "drivers" para simular entradas superiores.
+
+Sanduíche (Híbrido): 
+
+Combina top-down e bottom-up. Equilibra velocidade e precisão na detecção de falhas.
+
+Teste de sistema:
+
+Os testes de sistema são uma fase crítica no ciclo de vida do desenvolvimento de software. Eles avaliam o sistema como um todo, garantindo que todas as funcionalidades estejam funcionando conforme os requisitos especificados.
+
+Validar a funcionalidade do sistema: 
+
+Garantir que todas as funcionalidades operem corretamente e conforme as especificações.
+
+Verificar a conformidade com os requisitos: 
+
+Assegurar que o sistema atende a todos os requisitos definidos, tanto funcionais (o que o sistema faz) quanto não funcionais (desempenho, segurança, usabilidade etc.)
+
+Avaliar a qualidade geral do sistema: 
+
+Identificar problemas que podem afetar a experiência do usuário, como bugs, erros de desempenho ou problemas de usabilidade.
+
+Construir confiança no sistema: 
+
+Fornecer evidências de que o sistema está pronto para ser lançado e utilizado em produção.                                                                                     
